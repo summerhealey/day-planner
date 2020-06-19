@@ -13,11 +13,17 @@ The specific features of the application are outlined in the acceptance criteria
 Functional, deployed application includes the following:
 
 * A daily planner to create a schedule
+
 * Upon  opening the planner, the user will see the current day displayed at the top of the calendar
+
 * When the user scrolls down, they are presented with timeblocks for standard business hours
+
 * Each timeblock is color coded to indicate whether it is in the past, present, or future for the timeblocks of that day
+
 * Upon clicking into a timeblock, the user can enter an event
+
 * User can click a save button for that timeblock and save the text for that event in local storage
+
 * Upon refreshing the page, the saved events persist
 
 The following animation demonstrates the client's request for application functionality:
